@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CandyMaker
+/*namespace CandyMaker
 {
     public class Maker
     {
@@ -25,4 +25,4 @@ namespace CandyMaker
                 }
         }
     }
-}
+}*/
